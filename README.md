@@ -29,9 +29,9 @@ This project enables you to :
  - Works like a charm :smiley:
  
 
-## How to Play ?
+## How to Use ?
 
-Download the [Pre-Release Version] (https://github.com/jainpranav/Minesweeper/releases/tag/1.0)
+- Download the [Pre-Release Version] (https://github.com/jainpranav/DFA_and_Regex_Toolbox/releases/tag/v1.0)
  
 
 
