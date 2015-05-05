@@ -5,7 +5,7 @@ except ImportError as err:
     print ("error: %s. Tkinter library is required for using the GUI.") % err.message
     sys.exit(1)
 
-from AutomataTheory import *
+from Automata import *
 
 dotFound = isInstalled("dot")
 if dotFound:
