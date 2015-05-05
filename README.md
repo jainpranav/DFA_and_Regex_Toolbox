@@ -10,8 +10,13 @@
 
 ##About this Project 
 
-This project progressively builds up a small compiler for the below given CFG tools using the following technologies :
+This project rnable you to :
 
-- `C`
-- `LEX`
-- `YACC `
+- `Convert NFA to DFA`
+- `Convert NFA to Regex`
+- `Convert DFA to Regex`
+- `Minimize DFA`
+- `Convert Regex to NFA`
+- `Store your Automatas for future use`
+- `Load Saved Automatas`
+`
