@@ -32,13 +32,13 @@ This project enables you to :
 ## How to Use ?
 
 - Download the [Pre-Release Version] (https://github.com/jainpranav/DFA_and_Regex_Toolbox/releases/tag/v1.0)
+- Also download the [source code] (https://github.com/jainpranav/DFA_and_Regex_Toolbox/releases/tag/v1.1)
  
-
 
 ## How to Use The Code From source ?
 ```bash
-$ git clone --recursive git@github.com:jainpranav/DFA_and_Regex_Toolbox.git
-$ cd src/
+$ cd Automata_Editor
+$ python gui.py
 ```
 
 ## Contributing
