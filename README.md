@@ -27,8 +27,13 @@ This project enables you to :
  - Abstraction Maintained
  - Readability due to `inline comments`
  - Works like a charm :smiley:
- - 
  
+
+## How to Play ?
+
+Download the [Pre-Release Version] (https://github.com/jainpranav/Minesweeper/releases/tag/1.0)
+ 
+
 
 ## How to Use The Code From source ?
 ```bash
